@@ -1,6 +1,6 @@
 # Projecting the Australian population into the future, and estimating changes in associated carbon emissions
 
-<img align="right" src="thylacine.png" alt="thylacine" width="200" style="margin-top: 20px">
+<img align="right" src="auspop.gif" alt="Views on Australia's population" width="200" style="margin-top: 20px">
 
 R code accompanying paper:
 
@@ -9,6 +9,8 @@ R code accompanying paper:
 ## Abstract
 Australia’s high per capita emissions rates makes it is a major emitter of anthropogenic greenhouse gases, but its low intrinsic growth rate means that future increases in population size will be dictated by net overseas immigration. We constructed matrix models and projected the population to 2100 under six different
 immigration scenarios. A constant 1 per cent proportional immigration scenario would result in 53 million people by 2100, producing 30.7 Gt CO<sub>2</sub>-e over that interval. Zero net immigration would achieve approximate population stability by mid-century and produce 24.1 Gt CO<sub>2</sub>-e. Achieving a 27 per cent reduction in annual emissions by 2030 would require a 1.5-to 2.0-fold reduction in per-capita emissions; an 80 per cent reduction by 2050 would require a 5.8- to 10.2-fold reduction. Australia’s capacity to limit its future emissions will therefore depend primarily on a massive technological transformation of its energy sector, but business-as-usual immigration rates will make achieving meaningful mid-century targets more difficult.
+
+See also related <a href="https://conservationbytes.com/2016/06/12/what-immigration-means-for-australias-climate-change-policies/">blog post</a>.
 
 <br>
 Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1sO0O3wAAAAJ&view_op=list_works">Corey J. A. Bradshaw</a> <br>
