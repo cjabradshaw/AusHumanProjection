@@ -18,6 +18,9 @@ Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1
 January 2016 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 
+## R script
+- <code>AusHumanProjection.R</code>
+
 ## Requires the following data files (in the <a href="https://github.com/cjabradshaw/AusHumanProjection/tree/main/data"><em>data</em></a> directory)
 - mort.csv
 - fert.csv
