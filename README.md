@@ -1,6 +1,6 @@
 # Projecting the Australian population into the future, and estimating changes in associated carbon emissions
 
-<img align="right" src="auspop.gif" alt="Views on Australia's population" width="200" style="margin-top: 20px">
+<img align="right" src="auspop.gif" alt="Views on Australia's population" width="350" style="margin-top: 20px">
 
 R code accompanying paper:
 
