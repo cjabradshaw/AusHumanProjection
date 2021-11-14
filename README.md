@@ -37,4 +37,4 @@ January 2016 <br>
 - <code>boot</code>
 
 ## Requires the following source-code file
-- <code>matrixOperators.R</code> (in the <a href="https://github.com/cjabradshaw/DensityFeedbackSims/tree/main/source"><em>source</em></a> folder)
+- <code>matrixOperators.R</code>
