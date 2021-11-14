@@ -18,7 +18,7 @@ Prof <a href="http://scholar.google.com.au/citations?sortby=pubdate&hl=en&user=1
 January 2016 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 
-## Requires the following data files (in the <a href="http://"><em>data</em></a> directory)
+## Requires the following data files (in the <a href="https://github.com/cjabradshaw/AusHumanProjection/tree/main/data"><em>data</em></a> directory)
 - mort.csv
 - fert.csv
 - totpop.csv
